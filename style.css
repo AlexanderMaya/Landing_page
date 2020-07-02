@@ -1,0 +1,26 @@
+.fondo{
+    height: 70px;
+    background-color: #FFF300;
+}
+#active {
+    color: black;
+}
+
+#link{
+    color: black;
+}
+#contactanos{
+    background-color: #FFF300;
+}
+
+.footer{
+    background-color: #FFF300;
+    height: 50px;
+}
+.fondoo{
+    background-color: #FF3200 ;
+}
+.table{
+    background-color: black;
+    color: white;
+}
